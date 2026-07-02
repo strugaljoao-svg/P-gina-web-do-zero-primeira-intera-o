@@ -1,5 +1,9 @@
 TEMA: Página sobre a trajetória de "Neymar Da Silva Santos Junior"
+
+
 OBJETIVO: Demontrar as conquistas titulos e memórias do melhor jogador do mundo
+
+
 PROMT:Crie um site moderno, responsivo e altamente interativo sobre toda a história de Neymar Jr., organizado cronologicamente por ano. O site deve ter um design premium, com tema escuro (preto, azul e dourado), animações suaves, efeito parallax, transições elegantes e excelente experiência tanto em dispositivos móveis quanto em desktops.
 
 Estrutura do site
